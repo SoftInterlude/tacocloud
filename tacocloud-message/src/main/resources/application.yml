@@ -1,0 +1,7 @@
+spring:
+  artemis:
+    user: admin
+    password: 123456
+  jms:
+    template:
+      default-destination: tacocloud.order.queue

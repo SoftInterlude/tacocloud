@@ -1,0 +1,8 @@
+server:
+  port: 8082
+
+tacocloud:
+  rest:
+    ip: http://localhost:8080/
+  traverson:
+    ip: http://localhost:8081/api
